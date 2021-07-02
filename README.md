@@ -19,3 +19,6 @@ ID:aaa PW:aaa<br>
 授業進捗ページ作成<br>
 ⑤感想　先週は仕事等で時間が取れなかった、集中できなかったので反省です。<br>
 勉強時間の定期的なキープが難しかったです。今週はギア入れてやりたいと思います。
+![image](https://user-images.githubusercontent.com/54490421/124336101-bcfbc400-dbd7-11eb-87ba-f43a7d2ae110.png)
+![image](https://user-images.githubusercontent.com/54490421/124336112-c6852c00-dbd7-11eb-87eb-316ff2491af8.png)
+
